@@ -1,9 +1,9 @@
 #ifndef _EVAL_CALIB_H
 #define _EVAL_CALIB_H
 
-#include "../../Qing/qing_common.h"
-#include "../../Qing/qing_string.h"
-#include "../../Qing/qing_dir.h"
+#include "../../../Qing/qing_common.h"
+#include "../../../Qing/qing_string.h"
+#include "../../../Qing/qing_dir.h"
 
 #define CMOS_W 22.3
 #define CMOS_H 14.9

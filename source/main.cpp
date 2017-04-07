@@ -9,9 +9,9 @@ int main()
 //    calibEval.eval_bino_calib();
 
 
-    string cloud_name = "../../HumanDatas/Pointclouds/pointcloud_Lu_nocolor.ply";
-    Qing_Pointcloud_Evaluater pointEval(cloud_name);
-    pointEval.fast_triangulation();
+//    string cloud_name = "../../HumanDatas/Pointclouds/pointcloud_Lu_nocolor.ply";
+//    Qing_Pointcloud_Evaluater pointEval(cloud_name);
+//    pointEval.fast_triangulation();
 
     return 1;
 }

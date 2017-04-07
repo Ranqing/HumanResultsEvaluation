@@ -1,8 +1,8 @@
 #ifndef EVAL_POINTS_H
 #define EVAL_POINTS_H
 
-#include "../../Qing/qing_pointcloud.h"
-#include "../../Qing/qing_ply.h"
+#include "../../../Qing/qing_pointcloud.h"
+#include "../../../Qing/qing_ply.h"
 
 class Qing_Pointcloud_Evaluater
 {
